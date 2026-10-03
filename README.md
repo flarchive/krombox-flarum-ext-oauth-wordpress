@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of krombox/flarum-ext-oauth-wordpress.** Not for installation: use [Packagist](https://packagist.org/packages/krombox/flarum-ext-oauth-wordpress) or the [upstream repository](https://github.com/krombox/flarum-ext-oauth-wordpress).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/krombox-flarum-ext-oauth-wordpress/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/krombox-flarum-ext-oauth-wordpress/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2024-10-18 | `^1.2.0` | [Browse](https://github.com/flarchive/krombox-flarum-ext-oauth-wordpress/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/krombox-flarum-ext-oauth-wordpress.json](https://github.com/flarchive/archive-index/blob/main/packages/krombox-flarum-ext-oauth-wordpress.json)
 
